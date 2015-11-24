@@ -1,5 +1,5 @@
 # Decentralized-Asset-Registration
-This paper composed by the contributers of this repository under the CC0 1.0 Universal license aims to comparing different concepts of decentralized digital asset registration and tracking.
+This paper composed by the contributers of this repository under the [CC0 1.0 Universal](https://github.com/johannbarbie/Decentralized-Asset-Registration/blob/master/LICENSE) license aims to comparing different concepts of decentralized digital asset registration and tracking.
 
 ## Table of contents
 
@@ -33,7 +33,7 @@ tbd
 
 ## Introduction
 
-The products consumed on european and american markets show increasingly global origins. The companies producing, handling and/or distributing those products are spread over the globe. The network these companies form - supply chains - span suppliers, manufacturers and retailers. The degree of optimization they apply to the network - supply chain management - determine their success in their respective industries. (source?)
+The products consumed on european and american markets show increasingly global origins. The companies producing, handling and/or distributing those products are spread over the globe. The network these companies form - supply chains - span suppliers, manufacturers and retailers. The degree of optimization they apply to the network - supply chain management - determine their success in their respective industries. ([9](#souces))
 
 The global reach of supply chains, specifically into jurisdictions where fair labor and environmental protection are little enforced, creates an often negative ethical footprint for products. (source?) In a movement to more conscious consumption, “There is a growing rallying call by customers and governments demanding more transparency from brands, manufacturers, and producers throughout the supply chain.” ([2](#souces))
 
@@ -159,15 +159,15 @@ http://talkinglogistics.com/2015/01/26/bitcoin-new-supply-chain-operating-system
 
 ## Souces
 
-1. Bitcoin whitepaper https://bitcoin.org/bitcoin.pdf
-2. Provenance whitepaper https://medium.com/@provenancehq/using-the-blockchain-to-provide-transparency-in-product-supply-chains-7acf4b8d1d74#.jdmquwhek
-3. Open asset specification
-https://github.com/OpenAssets/open-assets-protocol/blob/master/specification.mediawiki
-4. Ethereum whitepaper https://github.com/ethereum/wiki/wiki/White-Paper
-5. Decentralized Digital Asset Registration - Concepts http://gendal.me/2013/11/10/decentralised-digital-asset-registers-concepts/
-6. Multichain whitepaper http://www.multichain.com/download/MultiChain-White-Paper.pdf
+1. [Bitcoin: A Peer-to-Peer Electronic Cash System by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
+2. [Provenance whitepaper by Jessi Baker and Jutta Steiner](https://medium.com/@provenancehq/using-the-blockchain-to-provide-transparency-in-product-supply-chains-7acf4b8d1d74#.jdmquwhek)
+3. [Open Assets Protocol by Flavien Charlon](https://github.com/OpenAssets/open-assets-protocol/blob/master/specification.mediawiki)
+4. [Ethereum whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
+5. [Decentralized Digital Asset Registration - Concepts by Richard Brown](http://gendal.me/2013/11/10/decentralised-digital-asset-registers-concepts/)
+6. [Multichain whitepaper](http://www.multichain.com/download/MultiChain-White-Paper.pdf)
 7. https://www.colu.co/ , https://www.coinprism.com/ , http://chromaway.com/ , http://coinspark.org/ (also offers private blockchains) , BlockCypher
-8. Wartermarked tokens http://www.ofnumbers.com/wp-content/uploads/2015/11/Watermarked-tokens-and-pseudonymity-on-public-blockchains-Swanson.pdf
+8. [Watermarked tokens and pseudonymity on public blockchains by Tim Swanson](http://www.ofnumbers.com/wp-content/uploads/2015/11/Watermarked-tokens-and-pseudonymity-on-public-blockchains-Swanson.pdf)
+9. [Outcome-Driven Supply Chains by Steven A. Melnyk, Edward W. Davis, Robert E. Spekman and Joseph Sandor](http://sloanreview.mit.edu/article/outcome-driven-supply-chains/)
 
 
 critique assets on blockchain:
