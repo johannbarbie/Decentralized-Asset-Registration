@@ -109,6 +109,18 @@ source (https://github.com/DavidJohnstonCEO/APIcoin-Spec)
 
 ## Native distributed Asset Issuance Systems
 
+All previously described systems comprise workarounds to Bitcoin's inability to track off-chain assets, but inherit its design constraints. They do so due to "Reduced implementation cost: we only need a thin layer on top of Bitcoin, there is no need to implement a cryptocurrency from scratch." ([10](#souces))
+In fact, it 
+
+
+Building a new network with native issuance design parameters is no trivial feat. For instance,
+Ethereum raised (at the time) roughly $18 million and has a small army of developers (both
+paid and volunteer) to build a new type of blockchain from scratch and it still took them over
+one year to build a system that learned from Bitcoin’s limitations in layer 3.30 At the time of
+writing, few of the “private Bitcoin fork” projects being proposed have had access to similar
+scale of resources and have not made similar, materially significant code rewrites and changes
+to Bitcoin Core in their product.31
+
 describe 
 	NXT	?
 
@@ -168,6 +180,8 @@ http://talkinglogistics.com/2015/01/26/bitcoin-new-supply-chain-operating-system
 7. https://www.colu.co/ , https://www.coinprism.com/ , http://chromaway.com/ , http://coinspark.org/ (also offers private blockchains) , BlockCypher
 8. [Watermarked tokens and pseudonymity on public blockchains by Tim Swanson](http://www.ofnumbers.com/wp-content/uploads/2015/11/Watermarked-tokens-and-pseudonymity-on-public-blockchains-Swanson.pdf)
 9. [Outcome-Driven Supply Chains by Steven A. Melnyk, Edward W. Davis, Robert E. Spekman and Joseph Sandor](http://sloanreview.mit.edu/article/outcome-driven-supply-chains/)
+10. [A blockchain-based property
+ownership recording system by Alex Mizrahi](http://chromaway.com/papers/A-blockchain-based-property-registry.pdf)
 
 
 critique assets on blockchain:
